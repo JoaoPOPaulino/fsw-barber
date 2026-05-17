@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@base-ui/react"
+import { Button } from "./_components/ui/button"
 
 
 const Home = () => {
